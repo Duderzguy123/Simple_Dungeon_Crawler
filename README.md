@@ -1,5 +1,5 @@
 # Simple_Dungeon_Crawler
-This was coded in replit and used the CMU Graphics package.
+This was coded in python and uses the CMU Graphics package within the Replit Online IDE.
 
 To run the game:
 1. Go into repl.it and Click "Use Template" to create a new repl with CMU Graphics installed. If you're already in a repl, keep reading!
