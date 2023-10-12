@@ -3,8 +3,8 @@ This was coded in python and uses the CMU Graphics package within the Replit Onl
 
 To run the game:
 1. Go into repl.it and Click "Use Template" to create a new repl with CMU Graphics installed. If you're already in a repl, keep reading!
-2. Using a file in Python3, paste the code from my MainGameCode.py text file
-3. Click Run and make sure the Screen is big enough to load the entire game Screen
+2. Using a file in Python3, paste the code from my MainGameCode.py text file.
+3. Click Run and make sure the Screen is big enough to load the entire game.
 4. Have fun and enjoy!
 
 In the game there is:
